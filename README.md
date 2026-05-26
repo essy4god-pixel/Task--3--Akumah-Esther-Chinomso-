@@ -29,7 +29,7 @@ which is significantly high and indicates potential issues in the business) VIns
 I encountered a lot of bugs while coding but was determined to handle it and boom! I did it after several trials.
 A Special thanks to Decodelabs for providing and giving me such privilege to hands-on practice. I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
 
-Eager for the project 4......
+Eager for the project 4.....
 
 ## Files in this Repo
 - select_queries.sql – Basic SELECT queries
